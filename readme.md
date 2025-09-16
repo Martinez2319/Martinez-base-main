@@ -1,4 +1,4 @@
-[![Martinez-base-main](https://i.postimg.cc/DwL7Hzbs/20250812-103108.jpg)](https://postimg.cc/HcpRKCLL)
+
 
 <p align="center">
 <a href="https://wa.me/521XXXXXXXXXX"><img title="Author" src="https://img.shields.io/badge/Martinez-base-main-black?style=for-the-badge&logo=whatsApp"></a>
