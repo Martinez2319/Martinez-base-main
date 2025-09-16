@@ -1,24 +1,26 @@
+# 🔥 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗖𝗜𝗢́𝗡 𝗣𝗢𝗥 𝗧𝗘𝗥𝗠𝗨𝗫
+* 𝗜𝗻𝘀𝘁𝗮𝗹𝗮 **𝗧𝗲𝗿𝗺𝘂𝘅** [𝗮𝗾𝘂𝗶́](𝗵𝘁𝘁𝗽𝘀://𝗳-𝗱𝗿𝗼𝗶𝗱.𝗼𝗿𝗴/𝗿𝗲𝗽𝗼/𝗰𝗼𝗺.𝘁𝗲𝗿𝗺𝘂𝘅_𝟭𝟭𝟴.𝗮𝗽𝗸)
 
+> [!𝗡𝗢𝗧𝗘]  
+> 𝗖𝗼𝗽𝗶𝗮 𝗹𝗼𝘀 𝗰𝗼𝗺𝗮𝗻𝗱𝗼𝘀 𝘂𝗻𝗼 𝗽𝗼𝗿 𝘂𝗻𝗼, **𝗻𝗼 𝗹𝗼𝘀 𝗽𝗲𝗴𝘂𝗲𝘀 𝘁𝗼𝗱𝗼𝘀 𝗷𝘂𝗻𝘁𝗼𝘀**.
 
-# 🔥 INSTALACIÓN POR TERMUX
-* Instala **Termux** [aquí](https://f-droid.org/repo/com.termux_118.apk)
+-- > 𝗮𝗽𝘁-𝗴𝗲𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 -𝘆 && 𝗽𝗸𝗴 𝘂𝗽𝗴𝗿𝗮𝗱𝗲 -𝘆 && 𝗽𝗸𝗴 𝘂𝗽𝗱𝗮𝘁𝗲 -𝘆 && 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗻𝗼𝗱𝗲𝗷𝘀 -𝘆 && 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗻𝗼𝗱𝗲𝗷𝘀-𝗹𝘁𝘀 -𝘆 && 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗳𝗳𝗺𝗽𝗲𝗴 -𝘆 && 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘄𝗴𝗲𝘁 -𝘆 && 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘁𝗲𝘀𝘀𝗲𝗿𝗮𝗰𝘁 -𝘆 && 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁 -𝘆
 
-> [!NOTE]  
-> Copia los comandos uno por uno, **no los pegues todos juntos**.
+-- > 𝘁𝗲𝗿𝗺𝘂𝘅-𝘀𝗲𝘁𝘂𝗽-𝘀𝘁𝗼𝗿𝗮𝗴𝗲
 
-```bash
-apt-get update -y && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && pkg install git -y
-termux-setup-storage
-cd /sdcard && git clone https://github.com/Martinez2319/Martinez-base-main
-cd Martinez-base-main
-node index
-🔥 REACTIVAR EN CASO DE DETENERSE EN TERMUX
+-- >  𝗰𝗱 /𝘀𝗱𝗰𝗮𝗿𝗱 && 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 𝗵𝘁𝘁𝗽𝘀://𝗴𝗶𝘁𝗵𝘂𝗯.𝗰𝗼𝗺/𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇𝟮𝟯𝟭𝟵/𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇-𝗯𝗮𝘀𝗲-𝗺𝗮𝗶𝗻
 
-Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-1. Abre Termux y navega al directorio del bot:
+-- >  𝗰𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇-𝗯𝗮𝘀𝗲-𝗺𝗮𝗶𝗻
 
-    cd Martinez-base-main
+-- >  𝗻𝗼𝗱𝗲 𝗶𝗻𝗱𝗲𝘅
 
-2. Inicia el bot nuevamente:
+🔥 𝗥𝗘𝗔𝗖𝗧𝗜𝗩𝗔𝗥 𝗘𝗡 𝗖𝗔𝗦𝗢 𝗗𝗘 𝗗𝗘𝗧𝗘𝗡𝗘𝗥𝗦𝗘 𝗘𝗡 𝗧𝗘𝗥𝗠𝗨𝗫
 
-    node index
+𝗦𝗶 𝗱𝗲𝘀𝗽𝘂𝗲́𝘀 𝗱𝗲 𝗶𝗻𝘀𝘁𝗮𝗹𝗮𝗿 𝗲𝗹 𝗯𝗼𝘁 𝗲𝗻 𝗧𝗲𝗿𝗺𝘂𝘅 𝘀𝗲 𝗱𝗲𝘁𝗶𝗲𝗻𝗲 (𝗽𝗮𝗻𝘁𝗮𝗹𝗹𝗮 𝗲𝗻 𝗯𝗹𝗮𝗻𝗰𝗼, 𝗽𝗲́𝗿𝗱𝗶𝗱𝗮 𝗱𝗲 𝗰𝗼𝗻𝗲𝘅𝗶𝗼́𝗻 𝗮 𝗜𝗻𝘁𝗲𝗿𝗻𝗲𝘁, 𝗿𝗲𝗶𝗻𝗶𝗰𝗶𝗼 𝗱𝗲𝗹 𝗱𝗶𝘀𝗽𝗼𝘀𝗶𝘁𝗶𝘃𝗼), 𝘀𝗶𝗴𝘂𝗲 𝗲𝘀𝘁𝗼𝘀 𝗽𝗮𝘀𝗼𝘀:
+𝟭. 𝗔𝗯𝗿𝗲 𝗧𝗲𝗿𝗺𝘂𝘅 𝘆 𝗻𝗮𝘃𝗲𝗴𝗮 𝗮𝗹 𝗱𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝗶𝗼 𝗱𝗲𝗹 𝗯𝗼𝘁:
+
+    -- >  𝗰𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇-𝗯𝗮𝘀𝗲-𝗺𝗮𝗶𝗻
+
+𝟮. 𝗜𝗻𝗶𝗰𝗶𝗮 𝗲𝗹 𝗯𝗼𝘁 𝗻𝘂𝗲𝘃𝗮𝗺𝗲𝗻𝘁𝗲:
+
+    -- >  𝗻𝗼𝗱𝗲 𝗶𝗻𝗱𝗲𝘅
