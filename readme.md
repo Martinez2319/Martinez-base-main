@@ -1,9 +1,5 @@
 
 
-<p align="center">
-<a href="https://wa.me/521XXXXXXXXXX"><img title="Author" src="https://img.shields.io/badge/Martinez-base-main-black?style=for-the-badge&logo=whatsApp"></a>
-<p/>
-
 # 🔥 INSTALACIÓN POR TERMUX
 * Instala **Termux** [aquí](https://f-droid.org/repo/com.termux_118.apk)
 
